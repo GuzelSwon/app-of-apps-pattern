@@ -9,7 +9,7 @@ spec:
   destination:
     namespace: default
     name: in-cluster
-  project: default
+  project: appbundle-project
   source:
     path: apps
     repoURL: https://github.com/GuzelSwon/app-of-apps-pattern

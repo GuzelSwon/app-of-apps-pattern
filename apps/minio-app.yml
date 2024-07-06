@@ -6,7 +6,7 @@ metadata:
   finalizers:
   - resources-finalizer.argocd.argoproj.io
 spec:
-  project: default
+  project: appbundle-project
   source:
     repoURL: https://github.com/minio/minio.git
     targetRevision: HEAD

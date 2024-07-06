@@ -9,7 +9,7 @@ spec:
   destination:
     namespace: default
     name: in-cluster
-  project: default
+  project: appbundle-project
   source:
     repoURL: https://github.com/bitnami/charts.git
     targetRevision: HEAD
