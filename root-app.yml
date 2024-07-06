@@ -11,6 +11,6 @@ spec:
     name: in-cluster
   project: default
   source:
-    path: apps/
+    path: apps
     repoURL: https://github.com/GuzelSwon/app-of-apps-pattern
     targetRevision: HEAD  
